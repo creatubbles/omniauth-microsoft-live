@@ -8,7 +8,7 @@ Supports hybrid(client-side) and server-side flows.
 Add to your `Gemfile`:
 
 ```ruby
-gem "omniauth-microsoft-live", :github => "9peso/omniauth-microsoft-live"
+gem "omniauth-microsoft-live", :github => "creatubbles/omniauth-microsoft-live"
 ```
 
 Then run `bundle install`.
